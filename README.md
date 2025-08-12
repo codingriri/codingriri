@@ -1,39 +1,44 @@
-Hello, I'm Riri👋
-Welcome to my GitHub! I’m a passionate and versatile software developer with a strong foundation in web development, mobile apps, and cloud technologies. I’m always learning new technologies and contributing to open-source projects. I also take on freelance projects to solve real-world problems through clean and scalable solutions.
+# 👋 Hi, I’m x — Welcome to my GitHub!
 
-Feel free to explore my repositories, open-source contributions, and freelance projects!
+I’m a passionate full-stack developer with experience in web, mobile, and cloud development. I love building clean, scalable solutions and contributing to open-source projects. Always learning, always coding.
 
-🚀 What I Do:
-<br>Web Development: Building scalable web apps using MERN (MongoDB, Express.js, React, Node.js), Vue.js, and Next.js.
-<br>Mobile Development: Creating cross-platform mobile apps with Flutter and native apps with Java and Kotlin.
-<br>Salesforce Development: Working with Salesforce OmniStudio/Vlocity and Salesforce.com administration in my current role.
-<br>AI/ML Enthusiast: Exploring the world of Machine Learning and AI through courses and practical projects.
-<br>Cybersecurity: Learning ethical hacking and network security to build more secure applications.
-<br>Freelancing: Available for web development, mobile app development, and cybersecurity freelance work.
+---
 
-🔧 Skills & Technologies: (in detail on my portfolio)
-<br>Programming Languages: Java, JavaScript (Node.js, React), Python, Dart (Flutter), SQL
-<br>Frameworks & Libraries: React, Node.js, Express, Next.js, Flutter, Salesforce OmniStudio
-<br>Tools & Platforms: Git, Docker, AWS, Firebase, Jenkins, Salesforce
-<br>Cloud Technologies: AWS, Google Cloud, Salesforce Cloud
-<br>AI/ML: Machine Learning with AWS, Python libraries (Pandas, NumPy, TensorFlow)
-<br>Cybersecurity: Penetration Testing, Network Security, Encryption (!learning)
+## 🚀 What I Do
+- **Web Development:** MERN, Vue.js, Next.js  
+- **Mobile Apps:** Flutter, Java/Kotlin (Android)  
+- **Salesforce:** OmniStudio, Salesforce Admin  
+- **AI/ML:** Exploring ML with Python & AWS  
+- **Cybersecurity:** Learning ethical hacking & security  
+- **Freelancing:** Available for ai/ml, genAI, web/mobile & cloud security projects
 
-📫 How to Reach Me:
-<br>📧 Email: codingriri@gmail.com
-<br>🌐 Website/Portfolio: //adding soon..
-<br>💼 LinkedIn: //adding soon..
-<br>📝 Freelance Work: //adding soon..
-<br>🌱 Currently Learning:
-<br>Machine Learning: Dive deeper into machine learning algorithms and AI applications.
-<br>Cybersecurity: Ethical hacking and penetration testing methodologies.
+---
 
-🔥 Fun Facts About Me:
-<br>I love working on side projects that push the boundaries of what technology can do.
-<br>I believe in building not just code, but solutions that make an impact **socially** and **sustainably**.
-<br>When I'm not coding, you can find me reading books on AI, tech trends, (**romantasy** is a must!), or tinkering with new gadgets.
+## 🛠️ Skills & Tools
+- **Languages:** Java, JavaScript, Python, Dart, SQL  
+- **Frameworks:** React, Node.js, Express, Flutter, Next.js  
+- **Platforms:** AWS, GCP, Firebase, Docker, Jenkins, Salesforce  
+- **AI/ML:** Pandas, NumPy, TensorFlow  
+- **Security:** Pen Testing, Encryption (learning)
 
-<!---
-codingriri/codingriri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🔥 Fun Facts
+- I love side projects that make real-world impact  
+- Big fan of tech trends, AI, and romantasy books  
+- Always experimenting with new tools & gadgets
+
+---
+
+## 📬 Get in Touch
+- 📧 Email: x  
+- 🌐 Portfolio: *Coming soon*  
+- 💼 LinkedIn: *Coming soon*  
+- 📝 Freelance Work: *Coming soon*
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent&custom_title=GitHub%20Profile%20Stats)
+
