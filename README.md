@@ -5,10 +5,10 @@ I’m a passionate full-stack developer with experience in web, mobile, and clou
 ---
 
 ## 🚀 What I Do
-- **Web Development:** MERN, Vue.js, Next.js  
+- **Web Development:** MERN, Next.js  
 - **Mobile Apps:** Flutter, Java/Kotlin (Android)  
-- **Salesforce:** OmniStudio, Salesforce Admin  
-- **AI/ML:** Exploring ML with Python & AWS  
+- **Salesforce:** OmniStudio, LWC, Salesforce Admin  
+- **AI/ML:** Exploring ML with Python & AWS, GenAI  
 - **Cybersecurity:** Learning ethical hacking & security  
 - **Freelancing:** Available for ai/ml, genAI, web/mobile & cloud security projects
 
