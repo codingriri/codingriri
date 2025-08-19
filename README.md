@@ -1,4 +1,4 @@
-# 👋 Hi, I’m x — Welcome to my GitHub!
+# 👋 Hi, I’m Riri — Welcome to my GitHub!
 
 I’m a passionate full-stack developer with experience in web, mobile, and cloud development. I love building clean, scalable solutions and contributing to open-source projects. Always learning, always coding.
 
